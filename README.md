@@ -1,1 +1,1 @@
-Es necesasrio instalar la libreria Adafruit Neopixel desde la ide de arduino
+Es necesario instalar la libreria Adafruit Neopixel desde la ide de arduino
